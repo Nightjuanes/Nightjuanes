@@ -1,16 +1,14 @@
-# Hello World, I'm [Tu Nombre] 👋
+# Hello World, I'm Juanes 👋
 
-## I'm a [Tu Profesión o Carrera] 💻✨
+## I'm a industrial and informatic engineer 💻✨
 
 ### Welcome to my GitHub! 🚀
 I create projects to learn, explore, and innovate while solving real-world challenges. Let's build something amazing together!
 
-## 🔎 Who am I? 👩‍💻
-Hello, I'm [Tu Nombre]! Based in [Tu País], I'm a passionate [Tu Especialidad]. Currently, I [tu cargo en una organización si aplica] leading impactful projects and fostering innovation within the tech community.
 
 ## ✨ What I Love:
 - 💡 Designing user experiences (UI/UX) and crafting responsive web designs.
-- 🔐 Exploring **cybersecurity** and **software architecture**.
+- 🔐 Analitic data and solve.
 - 🤝 Solving challenges through collaboration and leadership.
 
 ## 🚀 Key Projects:
