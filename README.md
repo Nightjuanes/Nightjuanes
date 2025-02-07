@@ -1,4 +1,4 @@
-# Hello World, I'm Juanes 👋
+# Hello, I'm Juanes 👋
 
 ## I'm a industrial and informatic engineer 💻✨
 
