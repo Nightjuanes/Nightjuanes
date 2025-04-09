@@ -5,15 +5,18 @@
 ### Welcome to my GitHub! 🚀
 I create projects to learn, explore, and innovate while solving real-world challenges. Let's build something amazing together!
 
-
-## ✨ What I Love:
-- 💡 Designing user experiences (UI/UX) and crafting responsive web designs.
-- 🔐 Analitic data and solve.
-- 🤝 Solving challenges through collaboration and leadership.
+## 🌟 Key Skills and Expertise
+- 💻 **Web Development**: Proficient in **Laravel** (Backend) and **MySQL**, with strong front-end skills.
+- 📱 **Mobile Development**: Creating dynamic apps using **React Native**.
+- 🔐 **Data Analytics**: Expertise in **Big Data**, **NLP**, and data visualization with **Power BI** and **Excel**.
+- 🔧 **Hardware Prototyping**: Hands-on experience with microcontrollers like **Arduino**.
+- 🚀 **Process Automation**: Skilled in **Google Apps Scripts** to optimize workflows.
+- 🔍 **Programming Languages**: Proficient in **Java** (OOP) and other versatile tools.
 
 ## 🚀 Key Projects:
-- **[Nombre del Proyecto]**
+- **Social Media app**
   - 🔗 [GitHub Repository](https://github.com/TU-USUARIO/tu-proyecto)
+  - 
 
 ---
 ## 🛠️ Languages and Tools
