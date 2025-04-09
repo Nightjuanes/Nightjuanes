@@ -8,7 +8,7 @@ I create projects to learn, explore, and innovate while solving real-world chall
 ## 🌟 Key Skills and Expertise
 - 💻 **Web Development**: Proficient in **Laravel** (Backend) and **MySQL**, with strong front-end skills.
 - 📱 **Mobile Development**: Creating dynamic apps using **React Native**.
-- 🔐 **Data Analytics**: Work with  **Big Data**, **NLP**, and data visualization with **Power BI** and **Excel**.
+- 🔐 **Data Analytics**: Work with  **Big Data**, **NLP**, and data visualization with **Power BI** and **Excel**, also have done some models of machine learning.
 - 🔧 **Hardware Prototyping**: Hands-on experience with microcontrollers like **Arduino**.
 - 🚀 **Process Automation**: Skilled in **Google Apps Scripts** to optimize workflows.
 - 🔍 **Programming Languages**: Proficient in **Java** (OOP) and other versatile tools.
