@@ -15,7 +15,7 @@ I create projects to learn, explore, and innovate while solving real-world chall
 
 ## 🚀 Key Projects:
 - **Social Media app**
-  - 🔗 [GitHub Repository](https://github.com/Nightjuanes/Red_social/tree/main)
+  - 🔗 [Social media repository](https://github.com/Nightjuanes/Red_social/tree/main)
   - 
 
 ---
