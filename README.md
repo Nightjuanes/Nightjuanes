@@ -16,7 +16,8 @@ I create projects to learn, explore, and innovate while solving real-world chall
 ## 🚀 Key Projects:
 - **Apps development**
   - 🔗 [Social media ](https://github.com/Nightjuanes/Red_social/tree/main)
-  -  🔗 [Solar energy ](https://github.com/sebastiangombaUni/SolarLinkApp)
+  - 🔗 [Solar energy ](https://github.com/sebastiangombaUni/SolarLinkApp)
+  -  🔗 [Mini chatgpt ](https://github.com/Nightjuanes/chatgpt)
 
 ---
 ## 🛠️ Languages and Tools
