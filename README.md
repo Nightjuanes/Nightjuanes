@@ -17,7 +17,15 @@ I create projects to learn, explore, and innovate while solving real-world chall
 - **Apps development**
   - 🔗 [Social media ](https://github.com/Nightjuanes/Red_social/tree/main)
   - 🔗 [Solar energy ](https://github.com/sebastiangombaUni/SolarLinkApp)
-  -  🔗 [Mini chatgpt ](https://github.com/Nightjuanes/chatgpt)
+  - 🔗 [Mini chatgpt ](https://github.com/Nightjuanes/chatgpt)
+## Web Development
+- 🔗 [Project Name](URL)
+
+## Data Analytics & Big Data
+- 🔗 [Project Name](URL)
+
+## Java Projects
+- 🔗 [Project Name](URL)
 
 ---
 ## 🛠️ Languages and Tools
