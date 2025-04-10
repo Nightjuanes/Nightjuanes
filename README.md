@@ -14,9 +14,9 @@ I create projects to learn, explore, and innovate while solving real-world chall
 - 🔍 **Programming Languages**: Proficient in **Java** (OOP) and other versatile tools.
 
 ## 🚀 Key Projects:
-- **Social Media app**
-  - 🔗 [Social media repository](https://github.com/Nightjuanes/Red_social/tree/main)
-  - 
+- **Apps development**
+  - 🔗 [Social media ](https://github.com/Nightjuanes/Red_social/tree/main)
+  -  🔗 [Solar energy ](https://github.com/sebastiangombaUni/SolarLinkApp)
 
 ---
 ## 🛠️ Languages and Tools
