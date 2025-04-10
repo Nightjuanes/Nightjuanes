@@ -14,18 +14,24 @@ I create projects to learn, explore, and innovate while solving real-world chall
 - 🔍 **Programming Languages**: Proficient in **Java** (OOP) and other versatile tools.
 
 ## 🚀 Key Projects:
-- **Apps development**
+## Apps development
   - 🔗 [Social media ](https://github.com/Nightjuanes/Red_social/tree/main)
   - 🔗 [Solar energy ](https://github.com/sebastiangombaUni/SolarLinkApp)
   - 🔗 [Mini chatgpt ](https://github.com/Nightjuanes/chatgpt)
+  - 🔗 [Wordle](https://github.com/Nightjuanes/scrumble)
 ## Web Development
-- 🔗 [Project Name](URL)
+- 🔗 [Coctels](https://github.com/Nightjuanes/Repertorio-de-Cocteles)
+- 🔗 [Restaurant Menu BACKEND ](https://github.com/Nightjuanes/product-app)
+- 🔗 [Restaurante Menu Frontend ](https://github.com/andreaurro24/proyecto1)
+- 🔗 [Basic calculator](https://github.com/Nightjuanes/calculator)
 
 ## Data Analytics & Big Data
 - 🔗 [Project Name](URL)
 
 ## Java Projects
 - 🔗 [Project Name](URL)
+  
+## Microcontroller and Arduino projects
 
 ---
 ## 🛠️ Languages and Tools
