@@ -29,10 +29,7 @@ I create projects to learn, explore, and innovate while solving real-world chall
 - 🔗 [Restaurant NLP](https://github.com/Nightjuanes/NLP_REVIEWS)
 - 🔗 [ Dashboard Sales](https://github.com/Nightjuanes/Dashboard_sales)
 - 🔗 [Criminality Chicago](https://github.com/Nightjuanes/Crimanilty_Bigdata)
-- 🔗 [Project Name](URL)
-## Java Projects
-- 🔗 [Project Name](URL)
-  
+
 ## Microcontroller and Arduino projects
 - 🔗 [Security system](https://github.com/Nightjuanes/Security_system)
 - 🔗 [Vending machine](https://github.com/Nightjuanes/Security_system)
