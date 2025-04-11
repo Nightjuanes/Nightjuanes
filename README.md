@@ -32,6 +32,8 @@ I create projects to learn, explore, and innovate while solving real-world chall
 - 🔗 [Project Name](URL)
   
 ## Microcontroller and Arduino projects
+- 🔗 [Security system](https://github.com/Nightjuanes/Security_system)
+- 🔗 [Vending machine](https://github.com/Nightjuanes/Security_system)
 
 ---
 ## 🛠️ Languages and Tools
